@@ -1,0 +1,14 @@
+.box {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 10px;
+}
+
+.red {
+    background-color: rebeccapurple;
+}
+
+.blue {
+    background-color: darkgoldenrod;
+}
